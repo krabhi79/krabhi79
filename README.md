@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate student who wants to be a good and inelligent developer in future..:)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krabhi79&label=Profile%20views&color=0e75b6&style=flat" alt="krabhi79" /> </p>
 
